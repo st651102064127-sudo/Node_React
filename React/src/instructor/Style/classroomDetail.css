@@ -1,0 +1,15 @@
+
+.setting-btn {
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer !important;
+  transition: all .2s ease;
+}
+
+.setting-btn:hover {
+  background: #eef2ff;
+  transform: rotate(10deg);
+}
